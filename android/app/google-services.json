@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1082959605377",
+    "project_id": "pizza-app-alangeh",
+    "storage_bucket": "pizza-app-alangeh.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082959605377:android:1fd42dd818240b41be6780",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH8IG3xTR9C85kv8zweOpP-yKHE-_zyDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
